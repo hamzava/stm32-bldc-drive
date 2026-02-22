@@ -31,19 +31,19 @@ This prototype focused on:
 ---
 ## ◆ Repository Structure
 /Hardware
-├── KiCad_Project
-├── Gerbers
-├── Schematics_PDF
-├── PCB_Images
+- ├── KiCad_Project
+- ├── Gerbers
+- ├── Schematics_PDF
+- ├── PCB_Images
 
 /Firmware
-├── STM32_Code
+- ├── STM32_Code
 
 /Videos
-├── *.mp4
+- ├── *.mp4
 
 /Docs
-├── Project_Report.pdf
+- ├── Project_Report.pdf
 
 ---
 
