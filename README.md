@@ -37,10 +37,8 @@ This prototype focused on:
 - ├── PCB_Images
 
 /Firmware
-- ├── STM32_Code
 
 /Videos
-- ├── *.mp4
 
 /Docs
 - ├── Datasheets
