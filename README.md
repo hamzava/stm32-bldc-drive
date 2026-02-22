@@ -22,8 +22,8 @@ The objective was to implement manual commutation for a sensorless BLDC motor us
 
 This prototype focused on:
 
+✔ BLDC Motor Control Algorithm
 ✔ Complementary PWM generation  
-✔ Dead-time considerations  
 ✔ Gate driver bootstrap behavior  
 ✔ Register-level commutation control  
 ✔ Hardware–firmware synchronization  
