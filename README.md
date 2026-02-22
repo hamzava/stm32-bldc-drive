@@ -2,7 +2,7 @@
 ### Using STM32F411RE + IR2110 Gate Drivers + IRF3205
 
 > 📌 **Recommended Reading:**  
-> Please refer to `/Docs/Project_Report.pdf` first for a detailed explanation of the architecture, technical challenges encountered, and lessons learned during development.  
+> Please refer to `/Docs/BLDC Project Report.pdf` first for a detailed explanation of the architecture, technical challenges encountered, and lessons learned during development.  
 > This repository documents a prototype exploration and does not represent a finalized, fully validated motor drive system.
 
 ◆ This project represents an exploration into low-level complementary PWM control, high-side bootstrap driving, and discrete 3-phase inverter design using STM32 advanced timers.
@@ -45,7 +45,7 @@ This prototype focused on:
 /Docs
 - ├── Datasheets
 - ├── Resources_Used > ***All the files used to learn about technologies involved in this project***
-- ├── Project_Report.pdf
+- ├── BLDC Project Report.pdf
 
 ---
 
