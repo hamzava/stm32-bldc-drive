@@ -43,6 +43,8 @@ This prototype focused on:
 - ├── *.mp4
 
 /Docs
+- ├── Datasheets
+- ├── Resources_Used    // All the files used to learn about technologies involved in this project
 - ├── Project_Report.pdf
 
 ---
