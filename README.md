@@ -44,7 +44,7 @@ This prototype focused on:
 
 /Docs
 - ├── Datasheets
-- ├── Resources_Used > All the files used to learn about technologies involved in this project
+- ├── Resources_Used > ***All the files used to learn about technologies involved in this project***
 - ├── Project_Report.pdf
 
 ---
