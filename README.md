@@ -11,14 +11,14 @@
 
 ## ◆ Project Overview
 
-This project is a  3-phase BLDC motor driver prototype built using:
+🟥 This project is a  3-phase BLDC motor driver prototype built using:
 
  - **STM32F411RE** (Advanced Timer – Complementary PWM)
  - **IR2110 High/Low Side Gate Drivers**
  - IRF3205 N-Channel MOSFET Half-Bridges
  - Bootstrap High-Side Supply Topology
 
-The objective was to implement manual commutation for a sensorless BLDC motor using complementary PWM outputs from the MCU’s advanced timer (TIM1), with register-level control and control the motor using it's BEMF.
+🟥 The objective was to implement manual commutation for a sensorless BLDC motor using complementary PWM outputs from the MCU’s advanced timer (TIM1), with register-level control and control the motor using it's BEMF.
 
 This prototype focused on:
 
